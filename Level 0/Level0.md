@@ -1,6 +1,6 @@
-Command
+Terminal
 ===
 ```
-ssh bandit0@bandit.labs.overthewire.org -p
-<enter> bandit0
+ssh bandit0@bandit.labs.overthewire.org
+bandit0 <enter>
 ```
